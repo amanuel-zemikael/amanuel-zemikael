@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amanuel Zemikael</h1>
 <h3 align="center">A passionate code and coding student from Eritrea</h3>
 
+<p align="center"> 
+<img width="460" height="300" src= "https://chrisdeblasio.com/wp-content/uploads/2019/04/movie-script.jpeg">
+</p>
 
 I have been studying and working in the performing and visual art sector since 2015. I work as a jornalist, film script writer and specially film dubbing director for the past 5 years in Addis Ababa Ethiopia untill I came to belguim in 2021.
 
+<p align="center"> 
+<img width="460" height="300" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIqoeMMTMJcmC9CDSdDTk1oWcnKIq-TfDFfw&usqp=CAU">
+</p>
 
 And now I am on the way to write my second life script. Coding, I see it like the art of film script in the way deep connection to the techno-visual world thats way Right now, I'm starting my Web Development career with the Hack Your Future Belgium team. 
 
