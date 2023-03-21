@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amanuel Zemikael</h1>
 <h3 align="center">A passionate code and coding student from Eritrea</h3>
+
+
+I have been studying and working in the performing and visual art sector since 2015. I work as a jornalist, film script writer and specially film dubbing director for the past 5 years in Addis Ababa Ethiopia untill I came to belguim in 2021.
+
+
+And now I am on the way to write my second life script. Coding, I see it like the art of film script in the way deep connection to the techno-visual world thats way Right now, I'm starting my Web Development career with the Hack Your Future Belgium team. 
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanuel-zemikael&label=Profile%20views&color=0e75b6&style=flat" alt="amanuel-zemikael" /> </p>
